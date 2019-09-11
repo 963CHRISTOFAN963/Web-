@@ -1,0 +1,48 @@
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Livvic', sans-serif;
+*/
+
+
+*body
+ background: #C9DAEA;
+}
+
+h1 {
+	font-family: 'Livvic', sans-serif;
+   color: #AB2346;
+}
+p {
+	font-family: 'Livvic', sans-serif;
+    font-size: 18px;
+    color: #191516;
+
+
+}
+
+#paragrafo {
+    font-family: 'Livvic', sans-serif;
+
+    font-size: 18px;
+    font-weight: 500;
+    color: #191516;
+}
+ #titulocustom {
+  font-family: 'Livvic', sans-serif;
+  color: #03F7EB;
+
+}
+.titulo {
+	color: #000;
+	font-family: 'Livvic', sans-serif;
+    font-size: 64px;
+    
+
+}
+
+.paragrafoCustomizado {
+	font-family: 'Livvic', sans-serif;
+  color: #CCC;
+
+
+

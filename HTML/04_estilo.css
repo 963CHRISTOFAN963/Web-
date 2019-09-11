@@ -1,0 +1,44 @@
+/*
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Livvic', sans-serif;
+*/
+
+
+* body {
+   background: #FFF;
+}
+
+/* TRABALHANDO COM SELETORES */
+h1 {
+     font-family: 'Raleway', sans-serif;
+     color: #F87060;
+}
+
+p {
+	font-family: 'Livvic', sans-serif;
+	color: #f87060;
+
+}
+
+/*TRABALHANDO COM IDs */
+#cabecalhoCustom {
+ font-family:  Arial, sans-serif;
+ color: #54426;
+}
+
+#paragrafoCustom {
+	font-family:  Calibri, sans-serif;
+	color: #54426B;
+
+}
+
+/*TRABALHANDO COM CLASSES */
+.classeCabecalho {
+	font-family:  'Century Gothic', sans-serif;
+	color: #FFA630
+}
+
+.classeParagrafo {
+	font-family:  'Century Gothic', sans-serif;
+	color: #FFA630
+}

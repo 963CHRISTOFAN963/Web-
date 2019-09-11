@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>Arquivo com JS Inline</title>
+	<meta charset="UTF-8">
+  
+<script>
+	function escreverNome(){
+     nome.innerhtml"!Vicius Cordeiro da Rocha";
+	}
+
+	window.onload = escreverNome;
+</script>
+
+
+</head>
+<body>
+
+<p id="nome"></p>
+
+</body>
+</html>

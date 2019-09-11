@@ -1,0 +1,67 @@
+* body {
+	background: #E9F1F7;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.titulo {
+	width: 1200px;
+	margin: 0 auto;
+    text-align: center;
+    border: #F2FF49;
+
+
+
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: 700;
+	
+
+
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: 300;
+	border: #F2FF49;
+
+}
+
+.spanCustom {
+
+   color: #30343F;
+   font-weight: 300;
+   
+
+}
+
+.conteudo {
+	width: 1200px;
+	margin: 0 auto;
+    line-height: 24px;
+    text-align: justify;
+    border: #F2FF49;
+;
+    
+
+}
+
+.formataP {
+	font-size: 20px;
+    /*
+    /* topo, direita, baixo, esquerda 
+    10px 5px 20px 30px
+    */
+
+
+	margin: 5px 10px;
+
+}
+
+.formContato {
+width: 1200px;
+margin: 0 auto;
+
+}
